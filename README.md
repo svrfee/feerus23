@@ -1,4 +1,4 @@
-### Hey there! I am using WhatsApp👋
+### Hey there! I am using GitHub👋
 
 <!--
 **feerus23/feerus23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
